@@ -87,4 +87,6 @@ app.listen(port);
 
 
 // databases
-const 
+
+// till now jwt auth, db , middlewares, api calls 
+// left models and controllers in db 
